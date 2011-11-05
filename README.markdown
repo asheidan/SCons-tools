@@ -12,7 +12,7 @@ provide path as well as toolname.
 		# Supply the names of the tools you want to use ( you might want to add
 		# 'default' to the list as well ).
 		tools = ['cutest'],
-		# This is where you might need to supply a path to where your
+		# This is where you might need to supply a path to where you put your
 		# helper-files
 		toolpath = ['sconslib']
 	)
